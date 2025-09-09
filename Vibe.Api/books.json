@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Year": 2008,
+    "Id": "c13e1f91-28c7-4e6e-b8c1-6e2d45deed61"
+  },
+  {
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andy Hunt",
+    "Year": 1999,
+    "Id": "34d4c7b5-b81a-4c0b-a2b7-1b8c27d88b70"
+  },
+  {
+    "Title": "Domain-Driven Design",
+    "Author": "Eric Evans",
+    "Year": 2004,
+    "Id": "5fd8fbb2-df77-44f7-b1f0-d347347fb691"
+  },
+  {
+    "Title": "Refactoring",
+    "Author": "Martin Fowler",
+    "Year": 2018,
+    "Id": "bf1ec991-d512-4b7a-b6c1-2fa3d15478c6"
+  },
+  {
+    "Title": "Vibe Coding with C#",
+    "Author": "Ziggy Rafiq",
+    "Year": 2025,
+    "Id": "4b2ed9a7-fc89-4a62-8141-5e77d2e1859a"
+  }
+]
