@@ -1,6 +1,4 @@
-﻿using VibeBooks.Domain.Entities;
-
-namespace VibeBooks.Api.Endpoints;
+﻿namespace VibeBooks.Api.Endpoints;
 
 public static class BookEndpoints
 {
