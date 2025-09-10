@@ -1,7 +1,10 @@
 # The Modern .NET Developer's Guide to Vibe Coding with C# 13: Flow, Features and Best Practices (vibe-coding-with-csharp13)
 A developer-friendly feature of C# 13, Ziggy Rafiq shares how to build scalable, testable, and modern .NET applications. Vibe coding is more than a mood - it's a way to maximize your productivity.
  
-**[The Modern .NET Developer's Guide to Vibe Coding with C# 13: Flow, Features and Best Practices](https://www.c-sharpcorner.com/article/the-modern-net-developers-guide-to-vibe-coding-with-c-sharp-13-flow-features-and/)**  
+
+![](docs/Zigg-Rafiq-Vibe-Coding-with-C-Sharp-13.png)
+
+**Link to the Article** **[The Modern .NET Developer's Guide to Vibe Coding with C# 13: Flow, Features and Best Practices](https://www.c-sharpcorner.com/article/the-modern-net-developers-guide-to-vibe-coding-with-c-sharp-13-flow-features-and/)**  
 
 ## About  
 
